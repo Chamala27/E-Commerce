@@ -55,7 +55,7 @@
     </style>
 </head>
 <body>
-    <h1>Welcome to Divya Kitchen in USA</h1>
+    <h1>Welcome to Divya Kitchen</h1>
     <h2>Menu</h2>
 
     <div id="menu">
